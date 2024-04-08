@@ -1,0 +1,21 @@
+.inline-me, .inline-you {
+    display: inline;
+    height: 300px;
+    padding-bottom: 300px;
+    width: 50%;
+    border-width: 5px;
+    border-color: rgba(27, 27, 44, 0.591);
+    border-style: solid;
+    border-radius: 5%;
+    text-align: center;
+    box-shadow: 10px 10px rgba(105, 83, 87, 0.466);
+   
+}
+
+.inline-me {
+    background-color: aqua;
+}
+
+.inline-you {
+    background-color: antiquewhite;
+}
